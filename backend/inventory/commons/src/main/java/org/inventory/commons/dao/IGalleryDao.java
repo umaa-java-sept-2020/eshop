@@ -1,4 +1,4 @@
-package org.inventory.item.dao;
+package org.inventory.commons.dao;
 
 
 import org.inventory.commons.model.Gallery;

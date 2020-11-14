@@ -1,5 +1,6 @@
 package org.inventory.item.dao;
 
+import org.inventory.commons.dao.IItemDao;
 import org.inventory.commons.model.Item;
 import org.springframework.stereotype.Repository;
 
