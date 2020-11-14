@@ -2,7 +2,7 @@ package org.example;
 
 import static org.junit.Assert.assertTrue;
 
-import org.inventory.item.dao.IItemDao;
+import org.inventory.commons.dao.IItemDao;
 import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
